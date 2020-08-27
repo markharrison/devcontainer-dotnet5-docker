@@ -1,2 +1,6 @@
 # devcontainer-dotnet5-docker
-devcontainer - dotnet5 using docker
+
+Visual Studio devcontainer 
+
+- dotnet5 
+- using docker
